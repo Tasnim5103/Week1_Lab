@@ -1,0 +1,23 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasnim5103/Week1_Lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tasnim5103/Week1_Lab/issues"
+  },
+  "homepage": "https://github.com/Tasnim5103/Week1_Lab#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
